@@ -16,3 +16,9 @@ the supplied database migrations.
 
 The functions require the corresponding secrets to be configured in their
 target Supabase project. No secret values are included in this repository.
+
+## License
+
+Goobox is multi-licensed under MPL-2.0, MIT, or Apache-2.0. Recipients may
+choose one of these licenses; see `LICENSE` and the corresponding full text
+files for the terms.
