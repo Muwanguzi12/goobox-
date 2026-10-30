@@ -22,3 +22,8 @@ target Supabase project. No secret values are included in this repository.
 Goobox is multi-licensed under MPL-2.0, MIT, or Apache-2.0. Recipients may
 choose one of these licenses; see `LICENSE` and the corresponding full text
 files for the terms.
+
+
+## Safe public evaluation
+
+See [JUDGING.md](JUDGING.md) for safe demo setup, database limitations, and credential-handling guidance. Do not connect judging environments to Necxa production systems or use real customer data.
