@@ -11,8 +11,7 @@ the supplied database migrations.
 - `supabase/migrations/` contains timestamped migrations. These are additive
   migrations for an existing Goobox database; they do not create the full
   application schema from scratch.
-- `integrations/necxa-primary/` contains files that belong to the separate
-  NECXA primary Supabase project. Do not deploy them to Goobox.
+- Private Necxa production integration patches are intentionally excluded from this public repository.
 
 The functions require the corresponding secrets to be configured in their
 target Supabase project. No secret values are included in this repository.
