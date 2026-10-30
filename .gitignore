@@ -1,0 +1,20 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.supabase/
+supabase/.temp/
+supabase/.branches/
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+coverage/
+
+# Local files
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
